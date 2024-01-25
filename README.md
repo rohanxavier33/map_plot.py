@@ -15,11 +15,11 @@ This program takes a list of locations and plots them on a map. It utilizes the 
 
 ```bash
 pip install folium geopy
+
 Usage
 Modify the input_locations list in the __main__ section with the locations you want to plot. Then run the script.
 
-python
-Copy code
+
 if __name__ == "__main__":
     input_locations = [
         "St Paul, MN",
